@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Manussakis/fifteen-puzzle-game.git"
+    "url": "git+https://github.com/Rishabh672003/fifteen-puzzle-game.git"
   },
   "browserslist": [
     "last 2 version",
@@ -24,9 +24,9 @@
   "author": "Gabriel Manussakis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Manussakis/fifteen-puzzle-game/issues"
+    "url": "https://github.com/Rishabh672003/fifteen-puzzle-game/issues"
   },
-  "homepage": "https://github.com/Manussakis/fifteen-puzzle-game#readme",
+  "homepage": "https://github.com/Rishabh672003/fifteen-puzzle-game#readme",
   "devDependencies": {
     "@babel/core": "^7.13.16",
     "@babel/preset-env": "^7.13.15",
