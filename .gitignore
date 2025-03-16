@@ -2,4 +2,3 @@
 .editorconfig
 node_modules/
 fifteen-puzzle-game-layout.ai
-dist/
